@@ -4,8 +4,11 @@
 ![python version](https://img.shields.io/badge/python-3.x-blue.svg)
 
 import pygame
+
 import socket
+
 import RPi.GPIO as GPIO
+
 from gpiozero import Servo
 
 
